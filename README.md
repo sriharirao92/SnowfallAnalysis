@@ -5,8 +5,8 @@ The Houghton snowfall records are maintained by Michigan Tech. The dataset conta
 
 The rendered HTML can be accessed here:
 
-http://pages.mtu.edu/~raghaven/Ex2/Ex2.html
-OR
+http://pages.mtu.edu/~raghaven/Ex2/Ex2.html <br>
+OR <br>
 http://htmlpreview.github.io/?https://github.com/sriharirao92/SnowfallAnalysis/blob/master/Snowfall_Analysis.html
 
 
